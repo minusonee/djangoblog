@@ -1,1 +1,1 @@
-This is a personal blog template made in django from RealPython.
+This is a personal blog template made with django from RealPython.
