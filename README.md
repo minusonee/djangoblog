@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Personal Blog Template</h1>
+  <h1>Personal Blog</h1>
   <h3>
     This is a personal blog template made with Django from RealPython.
   </h3>
