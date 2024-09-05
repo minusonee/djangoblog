@@ -4,4 +4,6 @@
     This is a personal blog template made with Django from RealPython.
   </h3>
   <a href="https://realpython.com/build-a-blog-from-scratch-django">RealPython Blog Tutorial</a>
+  
+  <a href="https://github.com/andybrewer/mvp">Stylesheet used</a>
 </div>
